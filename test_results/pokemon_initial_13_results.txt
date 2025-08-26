@@ -1,0 +1,390 @@
+Welcome to the thunder dome!
+> // set the seed to 870
+> setseed,870
+> // display info Abra
+> displayinfo,Abra
+Pokemon: Abra has 25 hp
+Attack Skills:
+Name: Mega Punch Damage: 1
+Name: Mega Kick Damage: 2
+Name: Seismic Toss Damage: 3
+Name: Psychic Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> // battle between 2 Pokemon
+> battle,Charmander,Abra
+Charmander is attacking with Attack for 1 damage to Abra
+Abra has received 1 dmg, remaining hp is 24
+Abra is attempting to defend with Protect
+Charmander is attacking with Attack for 1 damage to Abra
+Abra successfully reduced Charmander's damage by 3 with Protect
+Abra has received 0 dmg, remaining hp is 24
+Abra is attacking with Psychic for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 19
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Block
+Charmander is attacking with Flamethrower for 6 damage to Abra
+Abra successfully reduced Charmander's damage by 2 with Block
+Abra has received 4 dmg, remaining hp is 20
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 17
+Charmander is attacking with Ember for 3 damage to Abra
+Abra has received 3 dmg, remaining hp is 17
+Abra is attempting to defend with Endure
+Charmander is attacking with Flamethrower for 6 damage to Abra
+Abra successfully reduced Charmander's damage by 1 with Endure
+Abra has received 5 dmg, remaining hp is 12
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 14
+Charmander is attempting to defend with Endure
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 1 with Endure
+Charmander has received 2 dmg, remaining hp is 12
+Charmander is attacking with Attack for 1 damage to Abra
+Abra has received 1 dmg, remaining hp is 11
+Abra is attempting to defend with Endure
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra successfully reduced Charmander's damage by 1 with Endure
+Abra has received 1 dmg, remaining hp is 10
+Abra is attacking with Mega Punch for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 11
+Charmander is attempting to defend with Block
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 2 with Block
+Charmander has received 1 dmg, remaining hp is 10
+Charmander is attempting to defend with Endure
+Abra is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 3 with Protect
+Abra has received 0 dmg, remaining hp is 10
+Abra is attempting to defend with Endure
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 1 with Endure
+Abra has received 2 dmg, remaining hp is 8
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 8
+Charmander is attempting to defend with Protect
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander successfully reduced Abra's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 8
+Charmander is attacking with Ember for 3 damage to Abra
+Abra has received 3 dmg, remaining hp is 5
+Abra is attacking with Mega Punch for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 7
+Charmander is attempting to defend with Block
+Abra is attempting to defend with Endure
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 1 with Endure
+Abra has received 2 dmg, remaining hp is 3
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Endure
+Abra is attempting to defend with Block
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Block
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Block
+Charmander is attempting to defend with Endure
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Abra is attempting to defend with Block
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra successfully reduced Charmander's damage by 2 with Block
+Abra has received 0 dmg, remaining hp is 3
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 5
+Charmander is attempting to defend with Block
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 2 with Block
+Charmander has received 1 dmg, remaining hp is 4
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Protect
+Charmander is attacking with Flamethrower for 6 damage to Abra
+Abra successfully reduced Charmander's damage by 3 with Protect
+Abra has received 3 dmg, remaining hp is 0
+Abra has lost
+Charmander has won the battle
+> //tournament
+> tournament,Abra,Charmander,Charmander,Abra
+Starting tournament round 1 with Abra and Charmander
+Abra is attacking with Mega Punch for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 24
+Charmander is attempting to defend with Protect
+Abra is attacking with Mega Punch for 1 damage to Charmander
+Charmander successfully reduced Abra's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 24
+Charmander is attacking with Flamethrower for 6 damage to Abra
+Abra has received 6 dmg, remaining hp is 19
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Abra is attacking with Psychic for 6 damage to Charmander
+Charmander successfully reduced Abra's damage by 2 with Block
+Charmander has received 4 dmg, remaining hp is 20
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra has received 2 dmg, remaining hp is 17
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 17
+Charmander is attempting to defend with Endure
+Abra is attacking with Psychic for 6 damage to Charmander
+Charmander successfully reduced Abra's damage by 1 with Endure
+Charmander has received 5 dmg, remaining hp is 12
+Charmander is attacking with Ember for 3 damage to Abra
+Abra has received 3 dmg, remaining hp is 14
+Abra is attempting to defend with Endure
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 1 with Endure
+Abra has received 2 dmg, remaining hp is 12
+Abra is attacking with Mega Punch for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 11
+Charmander is attempting to defend with Endure
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander successfully reduced Abra's damage by 1 with Endure
+Charmander has received 1 dmg, remaining hp is 10
+Charmander is attacking with Attack for 1 damage to Abra
+Abra has received 1 dmg, remaining hp is 11
+Abra is attempting to defend with Block
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 2 with Block
+Abra has received 1 dmg, remaining hp is 10
+Abra is attempting to defend with Endure
+Charmander is attempting to defend with Protect
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 10
+Charmander is attempting to defend with Endure
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 1 with Endure
+Charmander has received 2 dmg, remaining hp is 8
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra has received 2 dmg, remaining hp is 8
+Abra is attempting to defend with Protect
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra successfully reduced Charmander's damage by 3 with Protect
+Abra has received 0 dmg, remaining hp is 8
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 5
+Charmander is attacking with Attack for 1 damage to Abra
+Abra has received 1 dmg, remaining hp is 7
+Abra is attempting to defend with Block
+Charmander is attempting to defend with Endure
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 1 with Endure
+Charmander has received 2 dmg, remaining hp is 3
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Endure
+Charmander is attempting to defend with Block
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Abra is attempting to defend with Endure
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Block
+Charmander is attempting to defend with Block
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander successfully reduced Abra's damage by 2 with Block
+Charmander has received 0 dmg, remaining hp is 3
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra has received 2 dmg, remaining hp is 5
+Abra is attempting to defend with Block
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 2 with Block
+Abra has received 1 dmg, remaining hp is 4
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Protect
+Abra is attacking with Psychic for 6 damage to Charmander
+Charmander successfully reduced Abra's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 0
+Charmander has lost
+Abra has won the battle
+Abra has won round 1
+Starting tournament round 2 with Charmander and Abra
+Charmander is attacking with Attack for 1 damage to Abra
+Abra has received 1 dmg, remaining hp is 24
+Abra is attempting to defend with Protect
+Charmander is attacking with Attack for 1 damage to Abra
+Abra successfully reduced Charmander's damage by 3 with Protect
+Abra has received 0 dmg, remaining hp is 24
+Abra is attacking with Psychic for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 19
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Block
+Charmander is attacking with Flamethrower for 6 damage to Abra
+Abra successfully reduced Charmander's damage by 2 with Block
+Abra has received 4 dmg, remaining hp is 20
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 17
+Charmander is attacking with Ember for 3 damage to Abra
+Abra has received 3 dmg, remaining hp is 17
+Abra is attempting to defend with Endure
+Charmander is attacking with Flamethrower for 6 damage to Abra
+Abra successfully reduced Charmander's damage by 1 with Endure
+Abra has received 5 dmg, remaining hp is 12
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 14
+Charmander is attempting to defend with Endure
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 1 with Endure
+Charmander has received 2 dmg, remaining hp is 12
+Charmander is attacking with Attack for 1 damage to Abra
+Abra has received 1 dmg, remaining hp is 11
+Abra is attempting to defend with Endure
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra successfully reduced Charmander's damage by 1 with Endure
+Abra has received 1 dmg, remaining hp is 10
+Abra is attacking with Mega Punch for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 11
+Charmander is attempting to defend with Block
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 2 with Block
+Charmander has received 1 dmg, remaining hp is 10
+Charmander is attempting to defend with Endure
+Abra is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 3 with Protect
+Abra has received 0 dmg, remaining hp is 10
+Abra is attempting to defend with Endure
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 1 with Endure
+Abra has received 2 dmg, remaining hp is 8
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 8
+Charmander is attempting to defend with Protect
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander successfully reduced Abra's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 8
+Charmander is attacking with Ember for 3 damage to Abra
+Abra has received 3 dmg, remaining hp is 5
+Abra is attacking with Mega Punch for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 7
+Charmander is attempting to defend with Block
+Abra is attempting to defend with Endure
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 1 with Endure
+Abra has received 2 dmg, remaining hp is 3
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Endure
+Abra is attempting to defend with Block
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Block
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Block
+Charmander is attempting to defend with Endure
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Abra is attempting to defend with Block
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra successfully reduced Charmander's damage by 2 with Block
+Abra has received 0 dmg, remaining hp is 3
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 5
+Charmander is attempting to defend with Block
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 2 with Block
+Charmander has received 1 dmg, remaining hp is 4
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Protect
+Charmander is attacking with Flamethrower for 6 damage to Abra
+Abra successfully reduced Charmander's damage by 3 with Protect
+Abra has received 3 dmg, remaining hp is 0
+Abra has lost
+Charmander has won the battle
+Charmander has won round 2
+Starting tournament round 3 with Abra and Charmander
+Abra is attacking with Mega Punch for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 24
+Charmander is attempting to defend with Protect
+Abra is attacking with Mega Punch for 1 damage to Charmander
+Charmander successfully reduced Abra's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 24
+Charmander is attacking with Flamethrower for 6 damage to Abra
+Abra has received 6 dmg, remaining hp is 19
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Abra is attacking with Psychic for 6 damage to Charmander
+Charmander successfully reduced Abra's damage by 2 with Block
+Charmander has received 4 dmg, remaining hp is 20
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra has received 2 dmg, remaining hp is 17
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 17
+Charmander is attempting to defend with Endure
+Abra is attacking with Psychic for 6 damage to Charmander
+Charmander successfully reduced Abra's damage by 1 with Endure
+Charmander has received 5 dmg, remaining hp is 12
+Charmander is attacking with Ember for 3 damage to Abra
+Abra has received 3 dmg, remaining hp is 14
+Abra is attempting to defend with Endure
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 1 with Endure
+Abra has received 2 dmg, remaining hp is 12
+Abra is attacking with Mega Punch for 1 damage to Charmander
+Charmander has received 1 dmg, remaining hp is 11
+Charmander is attempting to defend with Endure
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander successfully reduced Abra's damage by 1 with Endure
+Charmander has received 1 dmg, remaining hp is 10
+Charmander is attacking with Attack for 1 damage to Abra
+Abra has received 1 dmg, remaining hp is 11
+Abra is attempting to defend with Block
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 2 with Block
+Abra has received 1 dmg, remaining hp is 10
+Abra is attempting to defend with Endure
+Charmander is attempting to defend with Protect
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 10
+Charmander is attempting to defend with Endure
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 1 with Endure
+Charmander has received 2 dmg, remaining hp is 8
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra has received 2 dmg, remaining hp is 8
+Abra is attempting to defend with Protect
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra successfully reduced Charmander's damage by 3 with Protect
+Abra has received 0 dmg, remaining hp is 8
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 5
+Charmander is attacking with Attack for 1 damage to Abra
+Abra has received 1 dmg, remaining hp is 7
+Abra is attempting to defend with Block
+Charmander is attempting to defend with Endure
+Abra is attacking with Seismic Toss for 3 damage to Charmander
+Charmander successfully reduced Abra's damage by 1 with Endure
+Charmander has received 2 dmg, remaining hp is 3
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Endure
+Charmander is attempting to defend with Block
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Abra is attempting to defend with Endure
+Charmander is attempting to defend with Protect
+Abra is attempting to defend with Block
+Charmander is attempting to defend with Block
+Abra is attacking with Mega Kick for 2 damage to Charmander
+Charmander successfully reduced Abra's damage by 2 with Block
+Charmander has received 0 dmg, remaining hp is 3
+Charmander is attacking with Scratch for 2 damage to Abra
+Abra has received 2 dmg, remaining hp is 5
+Abra is attempting to defend with Block
+Charmander is attacking with Ember for 3 damage to Abra
+Abra successfully reduced Charmander's damage by 2 with Block
+Abra has received 1 dmg, remaining hp is 4
+Abra is attempting to defend with Protect
+Charmander is attempting to defend with Protect
+Abra is attacking with Psychic for 6 damage to Charmander
+Charmander successfully reduced Abra's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 0
+Charmander has lost
+Abra has won the battle
+Abra has won round 3
+Abra has won the tournament
+> //stop
+> stop
+stop acknowledged
+simulation terminated

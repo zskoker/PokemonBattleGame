@@ -1,0 +1,432 @@
+Welcome to the thunder dome!
+> // set the seed to 321
+> setseed,321
+> // display info Butterfree
+> displayinfo,Butterfree
+Pokemon: Butterfree has 40 hp
+Attack Skills:
+Name: Poison Damage: 0
+Damage Over Time: 2
+Damage Turn Count: 3
+Name: Gust Damage: 1
+Name: Whirlwind Damage: 2
+Name: Solar Beam Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> // battle between 2 Pokemon
+> battle,Pikachu,Butterfree
+Pikachu is attacking with Tail Whip for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 38
+Butterfree is attacking with Whirlwind for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 23
+Pikachu is attacking with Thunder Shock for 3 damage to Butterfree
+Butterfree has received 3 dmg, remaining hp is 35
+Butterfree is attempting to defend with Endure
+Pikachu is attacking with Tail Whip for 2 damage to Butterfree
+Butterfree successfully reduced Pikachu's damage by 1 with Endure
+Butterfree has received 1 dmg, remaining hp is 34
+Butterfree is attempting to defend with Protect
+Pikachu is attacking with Thunder Shock for 3 damage to Butterfree
+Butterfree successfully reduced Pikachu's damage by 3 with Protect
+Butterfree has received 0 dmg, remaining hp is 34
+Butterfree is attacking with Solar Beam for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 17
+Pikachu is attacking with Tail Whip for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 32
+Butterfree is attacking with Whirlwind for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 15
+Pikachu is attempting to defend with Protect
+Butterfree is attempting to defend with Endure
+Pikachu is attempting to defend with Protect
+Butterfree is attacking with Whirlwind for 2 damage to Pikachu
+Pikachu successfully reduced Butterfree's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 15
+Pikachu is attempting to defend with Endure
+Butterfree is attacking with Poison and Damage Over Time for 2 damage to Pikachu
+Pikachu successfully reduced Butterfree's damage by 1 with Endure
+Pikachu has received 1 dmg, remaining hp is 14
+Pikachu is attacking with Tail Whip for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 30
+Butterfree is attacking with Solar Beam and Damage Over Time for 8 damage to Pikachu
+Pikachu has received 8 dmg, remaining hp is 6
+Pikachu is attacking with Thunder for 6 damage to Butterfree
+Butterfree has received 6 dmg, remaining hp is 24
+Butterfree is attempting to defend with Block and Damage Over Time for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 4
+Pikachu is attempting to defend with Block
+Butterfree is attempting to defend with Block
+Pikachu is attempting to defend with Endure
+Butterfree is attacking with Solar Beam for 6 damage to Pikachu
+Pikachu successfully reduced Butterfree's damage by 1 with Endure
+Pikachu has received 5 dmg, remaining hp is 0
+Pikachu has lost
+Butterfree has won the battle
+> // invalid tournament
+> tournament,Pikachu,Butterfree,Charmander,Mew,Snorlax
+Participant size invalid.
+> // tournament
+> tournament,Pikachu,Butterfree,Charmander,Mew,Snorlax,Geodude,Charmander,Bulbasaur
+Starting tournament round 1 with Pikachu and Butterfree
+Pikachu is attacking with Tail Whip for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 38
+Butterfree is attacking with Whirlwind for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 23
+Pikachu is attacking with Thunder Shock for 3 damage to Butterfree
+Butterfree has received 3 dmg, remaining hp is 35
+Butterfree is attempting to defend with Endure
+Pikachu is attacking with Tail Whip for 2 damage to Butterfree
+Butterfree successfully reduced Pikachu's damage by 1 with Endure
+Butterfree has received 1 dmg, remaining hp is 34
+Butterfree is attempting to defend with Protect
+Pikachu is attacking with Thunder Shock for 3 damage to Butterfree
+Butterfree successfully reduced Pikachu's damage by 3 with Protect
+Butterfree has received 0 dmg, remaining hp is 34
+Butterfree is attacking with Solar Beam for 6 damage to Pikachu
+Pikachu has received 6 dmg, remaining hp is 17
+Pikachu is attacking with Tail Whip for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 32
+Butterfree is attacking with Whirlwind for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 15
+Pikachu is attempting to defend with Protect
+Butterfree is attempting to defend with Endure
+Pikachu is attempting to defend with Protect
+Butterfree is attacking with Whirlwind for 2 damage to Pikachu
+Pikachu successfully reduced Butterfree's damage by 3 with Protect
+Pikachu has received 0 dmg, remaining hp is 15
+Pikachu is attempting to defend with Endure
+Butterfree is attacking with Poison and Damage Over Time for 2 damage to Pikachu
+Pikachu successfully reduced Butterfree's damage by 1 with Endure
+Pikachu has received 1 dmg, remaining hp is 14
+Pikachu is attacking with Tail Whip for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 30
+Butterfree is attacking with Solar Beam and Damage Over Time for 8 damage to Pikachu
+Pikachu has received 8 dmg, remaining hp is 6
+Pikachu is attacking with Thunder for 6 damage to Butterfree
+Butterfree has received 6 dmg, remaining hp is 24
+Butterfree is attempting to defend with Block and Damage Over Time for 2 damage to Pikachu
+Pikachu has received 2 dmg, remaining hp is 4
+Pikachu is attempting to defend with Block
+Butterfree is attempting to defend with Block
+Pikachu is attempting to defend with Endure
+Butterfree is attacking with Solar Beam for 6 damage to Pikachu
+Pikachu successfully reduced Butterfree's damage by 1 with Endure
+Pikachu has received 5 dmg, remaining hp is 0
+Pikachu has lost
+Butterfree has won the battle
+Butterfree has won round 1
+Starting tournament round 2 with Charmander and Mew
+Charmander is attacking with Scratch for 2 damage to Mew
+Mew has received 2 dmg, remaining hp is 23
+Mew is attacking with Imprison for 2 damage to Charmander
+Charmander has received 2 dmg, remaining hp is 23
+Charmander is attacking with Ember for 3 damage to Mew
+Mew has received 3 dmg, remaining hp is 20
+Mew is attempting to defend with Endure
+Charmander is attacking with Scratch for 2 damage to Mew
+Mew successfully reduced Charmander's damage by 1 with Endure
+Mew has received 1 dmg, remaining hp is 19
+Mew is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Mew
+Mew successfully reduced Charmander's damage by 3 with Protect
+Mew has received 0 dmg, remaining hp is 19
+Mew is attacking with Psychic for 15 damage to Charmander
+Charmander has received 15 dmg, remaining hp is 8
+Charmander is attacking with Scratch for 2 damage to Mew
+Mew has received 2 dmg, remaining hp is 17
+Mew is attempting to defend with Block
+Charmander is attempting to defend with Protect
+Mew is attempting to defend with Endure
+Charmander is attempting to defend with Protect
+Mew is attacking with Imprison for 2 damage to Charmander
+Charmander successfully reduced Mew's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 8
+Charmander is attempting to defend with Endure
+Mew is attempting to defend with Protect
+Charmander is attacking with Scratch for 2 damage to Mew
+Mew successfully reduced Charmander's damage by 3 with Protect
+Mew has received 0 dmg, remaining hp is 17
+Mew is attempting to defend with Protect
+Charmander is attacking with Flamethrower for 6 damage to Mew
+Mew successfully reduced Charmander's damage by 3 with Protect
+Mew has received 3 dmg, remaining hp is 14
+Mew is attempting to defend with Block
+Charmander is attempting to defend with Block
+Mew is attempting to defend with Block
+Charmander is attempting to defend with Endure
+Mew is attacking with Psychic for 15 damage to Charmander
+Charmander successfully reduced Mew's damage by 1 with Endure
+Charmander has received 14 dmg, remaining hp is 0
+Charmander has lost
+Mew has won the battle
+Mew has won round 2
+Starting tournament round 3 with Snorlax and Geodude
+Snorlax is attacking with Rest for 0 damage to Geodude
+Geodude is attacking with Earth Quake for 3 damage to Snorlax
+Snorlax has received 3 dmg, remaining hp is 37
+Snorlax is attacking with Snore for 6 damage to Geodude
+Geodude has received 6 dmg, remaining hp is 19
+Geodude is attempting to defend with Endure
+Snorlax is attacking with Rest for 0 damage to Geodude
+Geodude is attempting to defend with Protect
+Snorlax is attacking with Snore for 6 damage to Geodude
+Geodude successfully reduced Snorlax's damage by 3 with Protect
+Geodude has received 3 dmg, remaining hp is 16
+Geodude is attacking with Rock Slide for 6 damage to Snorlax
+Snorlax has received 6 dmg, remaining hp is 31
+Snorlax is attacking with Rest for 0 damage to Geodude
+Geodude is attempting to defend with Block
+Snorlax is attacking with Rest for 0 damage to Geodude
+Geodude is attempting to defend with Endure
+Snorlax is attempting to defend with Protect
+Geodude is attacking with Earth Quake for 3 damage to Snorlax
+Snorlax successfully reduced Geodude's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 31
+Snorlax is attacking with Snore for 6 damage to Geodude
+Geodude has received 6 dmg, remaining hp is 10
+Geodude is attempting to defend with Protect
+Snorlax is attacking with Rest for 0 damage to Geodude
+Geodude is attempting to defend with Protect
+Snorlax is attacking with Snore for 6 damage to Geodude
+Geodude successfully reduced Snorlax's damage by 3 with Protect
+Geodude has received 3 dmg, remaining hp is 7
+Geodude is attempting to defend with Block
+Snorlax is attempting to defend with Block
+Geodude is attempting to defend with Block
+Snorlax is attempting to defend with Endure
+Geodude is attacking with Rock Slide for 6 damage to Snorlax
+Snorlax successfully reduced Geodude's damage by 1 with Endure
+Snorlax has received 5 dmg, remaining hp is 26
+Snorlax is attacking with Snore for 6 damage to Geodude
+Geodude has received 6 dmg, remaining hp is 1
+Geodude is attempting to defend with Protect
+Snorlax is attempting to defend with Protect
+Geodude is attempting to defend with Block
+Snorlax is attacking with Snore for 6 damage to Geodude
+Geodude successfully reduced Snorlax's damage by 2 with Block
+Geodude has received 4 dmg, remaining hp is 0
+Geodude has lost
+Snorlax has won the battle
+Snorlax has won round 3
+Starting tournament round 4 with Charmander and Bulbasaur
+Charmander is attacking with Scratch for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 23
+Bulbasaur is attacking with Razor Leaf for 3 damage to Charmander
+Charmander has received 3 dmg, remaining hp is 22
+Charmander is attacking with Ember for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 20
+Bulbasaur is attempting to defend with Endure
+Charmander is attacking with Scratch for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 1 with Endure
+Bulbasaur has received 1 dmg, remaining hp is 19
+Bulbasaur is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 3 with Protect
+Bulbasaur has received 0 dmg, remaining hp is 19
+Bulbasaur is attacking with Leaf Storm for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 16
+Charmander is attacking with Scratch for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 17
+Bulbasaur is attempting to defend with Block
+Charmander is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Charmander is attempting to defend with Protect
+Bulbasaur is attacking with Razor Leaf for 3 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 3 with Protect
+Charmander has received 0 dmg, remaining hp is 16
+Charmander is attempting to defend with Endure
+Bulbasaur is attempting to defend with Protect
+Charmander is attacking with Scratch for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 3 with Protect
+Bulbasaur has received 0 dmg, remaining hp is 17
+Bulbasaur is attempting to defend with Protect
+Charmander is attacking with Flamethrower for 6 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 3 with Protect
+Bulbasaur has received 3 dmg, remaining hp is 14
+Bulbasaur is attempting to defend with Block
+Charmander is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Charmander is attempting to defend with Endure
+Bulbasaur is attacking with Leaf Storm for 6 damage to Charmander
+Charmander successfully reduced Bulbasaur's damage by 1 with Endure
+Charmander has received 5 dmg, remaining hp is 11
+Charmander is attacking with Flamethrower for 6 damage to Bulbasaur
+Bulbasaur has received 6 dmg, remaining hp is 8
+Bulbasaur is attempting to defend with Protect
+Charmander is attempting to defend with Protect
+Bulbasaur is attempting to defend with Block
+Charmander is attacking with Flamethrower for 6 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 2 with Block
+Bulbasaur has received 4 dmg, remaining hp is 4
+Bulbasaur is attempting to defend with Protect
+Charmander is attempting to defend with Protect
+Bulbasaur is attempting to defend with Block
+Charmander is attacking with Scratch for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 2 with Block
+Bulbasaur has received 0 dmg, remaining hp is 4
+Bulbasaur is attempting to defend with Protect
+Charmander is attacking with Scratch for 2 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 3 with Protect
+Bulbasaur has received 0 dmg, remaining hp is 4
+Bulbasaur is attempting to defend with Block
+Charmander is attacking with Ember for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 2 with Block
+Bulbasaur has received 1 dmg, remaining hp is 3
+Bulbasaur is attempting to defend with Block
+Charmander is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Charmander is attempting to defend with Endure
+Bulbasaur is attempting to defend with Block
+Charmander is attempting to defend with Block
+Bulbasaur is attempting to defend with Block
+Charmander is attacking with Ember for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 2 with Block
+Bulbasaur has received 1 dmg, remaining hp is 2
+Bulbasaur is attempting to defend with Endure
+Charmander is attempting to defend with Protect
+Bulbasaur is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Bulbasaur is attempting to defend with Endure
+Charmander is attempting to defend with Endure
+Bulbasaur is attempting to defend with Block
+Charmander is attacking with Flamethrower for 6 damage to Bulbasaur
+Bulbasaur successfully reduced Charmander's damage by 2 with Block
+Bulbasaur has received 4 dmg, remaining hp is 0
+Bulbasaur has lost
+Charmander has won the battle
+Charmander has won round 4
+Starting tournament round 5 with Butterfree and Mew
+Butterfree is attacking with Gust for 1 damage to Mew
+Mew has received 1 dmg, remaining hp is 24
+Mew is attacking with Imprison for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 38
+Butterfree is attacking with Whirlwind for 2 damage to Mew
+Mew has received 2 dmg, remaining hp is 22
+Mew is attempting to defend with Endure
+Butterfree is attacking with Gust for 1 damage to Mew
+Mew successfully reduced Butterfree's damage by 1 with Endure
+Mew has received 0 dmg, remaining hp is 22
+Mew is attempting to defend with Protect
+Butterfree is attacking with Whirlwind for 2 damage to Mew
+Mew successfully reduced Butterfree's damage by 3 with Protect
+Mew has received 0 dmg, remaining hp is 22
+Mew is attacking with Psychic for 15 damage to Butterfree
+Butterfree has received 15 dmg, remaining hp is 23
+Butterfree is attacking with Gust for 1 damage to Mew
+Mew has received 1 dmg, remaining hp is 21
+Mew is attacking with Imprison for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 21
+Butterfree is attempting to defend with Protect
+Mew is attempting to defend with Endure
+Butterfree is attempting to defend with Protect
+Mew is attacking with Imprison for 2 damage to Butterfree
+Butterfree successfully reduced Mew's damage by 3 with Protect
+Butterfree has received 0 dmg, remaining hp is 21
+Butterfree is attempting to defend with Endure
+Mew is attacking with Charm for 0 damage to Butterfree
+Butterfree is attacking with Gust for 1 damage to Mew
+Mew has received 1 dmg, remaining hp is 20
+Mew is attacking with Psychic for 15 damage to Butterfree
+Butterfree has received 15 dmg, remaining hp is 6
+Butterfree is attacking with Solar Beam for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 14
+Mew is attempting to defend with Block
+Butterfree is attempting to defend with Block
+Mew is attempting to defend with Block
+Butterfree is attempting to defend with Endure
+Mew is attacking with Psychic for 15 damage to Butterfree
+Butterfree successfully reduced Mew's damage by 1 with Endure
+Butterfree has received 14 dmg, remaining hp is 0
+Butterfree has lost
+Mew has won the battle
+Mew has won round 5
+Starting tournament round 6 with Snorlax and Charmander
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attacking with Ember for 3 damage to Snorlax
+Snorlax has received 3 dmg, remaining hp is 37
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 19
+Charmander is attempting to defend with Endure
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attempting to defend with Protect
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander successfully reduced Snorlax's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 16
+Charmander is attacking with Flamethrower for 6 damage to Snorlax
+Snorlax has received 6 dmg, remaining hp is 31
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attempting to defend with Block
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attempting to defend with Endure
+Snorlax is attempting to defend with Protect
+Charmander is attacking with Ember for 3 damage to Snorlax
+Snorlax successfully reduced Charmander's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 31
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 10
+Charmander is attempting to defend with Protect
+Snorlax is attacking with Rest for 0 damage to Charmander
+Charmander is attempting to defend with Protect
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander successfully reduced Snorlax's damage by 3 with Protect
+Charmander has received 3 dmg, remaining hp is 7
+Charmander is attempting to defend with Block
+Snorlax is attempting to defend with Block
+Charmander is attempting to defend with Block
+Snorlax is attempting to defend with Endure
+Charmander is attacking with Flamethrower for 6 damage to Snorlax
+Snorlax successfully reduced Charmander's damage by 1 with Endure
+Snorlax has received 5 dmg, remaining hp is 26
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander has received 6 dmg, remaining hp is 1
+Charmander is attempting to defend with Protect
+Snorlax is attempting to defend with Protect
+Charmander is attempting to defend with Block
+Snorlax is attacking with Snore for 6 damage to Charmander
+Charmander successfully reduced Snorlax's damage by 2 with Block
+Charmander has received 4 dmg, remaining hp is 0
+Charmander has lost
+Snorlax has won the battle
+Snorlax has won round 6
+Starting tournament round 7 with Mew and Snorlax
+Mew is attacking with Pound for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 39
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 19
+Mew is attacking with Imprison for 2 damage to Snorlax
+Snorlax has received 2 dmg, remaining hp is 37
+Snorlax is attempting to defend with Endure
+Mew is attacking with Pound for 1 damage to Snorlax
+Snorlax successfully reduced Mew's damage by 1 with Endure
+Snorlax has received 0 dmg, remaining hp is 37
+Snorlax is attempting to defend with Protect
+Mew is attacking with Imprison for 2 damage to Snorlax
+Snorlax successfully reduced Mew's damage by 3 with Protect
+Snorlax has received 0 dmg, remaining hp is 37
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 13
+Mew is attacking with Pound for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 36
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 7
+Mew is attempting to defend with Protect
+Snorlax is attempting to defend with Endure
+Mew is attempting to defend with Protect
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew successfully reduced Snorlax's damage by 3 with Protect
+Mew has received 3 dmg, remaining hp is 4
+Mew is attempting to defend with Endure
+Snorlax is attacking with Rest for 0 damage to Mew
+Mew is attacking with Pound for 1 damage to Snorlax
+Snorlax has received 1 dmg, remaining hp is 35
+Snorlax is attacking with Snore for 6 damage to Mew
+Mew has received 6 dmg, remaining hp is 0
+Mew has lost
+Snorlax has won the battle
+Snorlax has won round 7
+Snorlax has won the tournament
+> //stop
+> stop
+stop acknowledged
+simulation terminated

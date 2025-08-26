@@ -1,0 +1,12 @@
+// set the seed to 321
+setseed,321
+// display info Butterfree
+displayinfo,Butterfree
+// battle between 2 Pokemon
+battle,Pikachu,Butterfree
+// invalid tournament
+tournament,Pikachu,Butterfree,Charmander,Mew,Snorlax
+// tournament
+tournament,Pikachu,Butterfree,Charmander,Mew,Snorlax,Geodude,Charmander,Bulbasaur
+//stop
+stop

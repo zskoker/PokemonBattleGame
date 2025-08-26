@@ -1,0 +1,16 @@
+// display all info
+displayinfo,Abra
+displayinfo,Bulbasaur
+displayinfo,Butterfree
+displayinfo,Charmander
+displayinfo,Ditto
+displayinfo,Geodude
+displayinfo,Jigglypuff
+displayinfo,Lapras
+displayinfo,Mew
+displayinfo,Pikachu
+displayinfo,Slowpoke
+displayinfo,Snorlax
+displayinfo,Squirtle
+//stop
+stop

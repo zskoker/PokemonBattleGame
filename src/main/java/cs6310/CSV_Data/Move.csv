@@ -1,0 +1,45 @@
+moveID,name,powerLevel,type,powerType,effect
+1,Mega Punch,1,attack,Fighting,standard
+2,Mega Kick,2,attack,Fighting,standard
+3,Seismic Toss,3,attack,Fighting,standard
+4,Psychic,6,attack,Psychic,standard
+5,Tackle,1,attack,Normal,standard
+6,Vine Whip,2,attack,Grass,standard
+7,Razor Leaf,3,attack,Grass,standard
+8,Leaf Storm,6,attack,Grass,standard
+9,Poison,0,attack,Poison,dot
+10,Gust,1,attack,Flying,standard
+11,Whirlwind,2,attack,Flying,standard
+12,Solar Beam,6,attack,Grass,standard
+13,Attack,1,attack,Normal,standard
+14,Scratch,2,attack,Normal,standard
+15,Ember,3,attack,Fire,standard
+16,Flamethrower,6,attack,Fire,standard
+17,Transform,0,attack,Normal,transform
+18,Rock Throw,2,attack,Rock,standard
+19,Earth Quake,3,attack,Ground,standard
+20,Rock Slide,6,attack,Rock,standard
+21,Sharpie,0,attack,Normal,standard
+22,Sing,1,attack,Fairy,standard
+23,Pound,2,attack,Normal,standard
+24,Double Slap,10,attack,Normal,standard
+25,Mist,1,attack,Ice,standard
+26,Ice Shard,2,attack,Ice,standard
+27,Ice Beam,3,attack,Ice,standard
+28,Sheer Cold,6,attack,Ice,standard
+29,Charm,0,attack,Fairy,standard
+30,Imprison,2,attack,Psychic,standard
+31,Growl,1,attack,Normal,standard
+32,Tail Whip,2,attack,Normal,standard
+33,Thunder Shock,3,attack,Electric,standard
+34,Thunder,6,attack,Electric,standard
+35,Curse,2,attack,Ghost,standard
+36,Confusion,3,attack,Psychic,standard
+37,Rest,0,attack,Psychic,standard
+38,Snore,6,attack,Normal,standard
+39,Water Gun,3,attack,Water,standard
+40,Hydro Pump,6,attack,Water,standard
+41,Endure,1,defense,Normal,standard
+42,Block,2,defense,Normal,standard
+43,Protect,3,defense,Normal,standard
+44,Heal Pulse,0,defense,Psychic,healing1

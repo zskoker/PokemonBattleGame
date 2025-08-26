@@ -1,0 +1,10 @@
+// set the seed to 61
+setseed,61
+// display info Jigglypuff
+displayinfo,Jigglypuff
+// battle between 2 Pokemon
+battle,Geodude,Jigglypuff
+//tournament
+tournament,Jigglypuff,Ditto,Butterfree,Squirtle
+//stop
+stop

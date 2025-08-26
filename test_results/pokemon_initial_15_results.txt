@@ -1,0 +1,147 @@
+Welcome to the thunder dome!
+> // display all info
+> displayinfo,Abra
+Pokemon: Abra has 25 hp
+Attack Skills:
+Name: Mega Punch Damage: 1
+Name: Mega Kick Damage: 2
+Name: Seismic Toss Damage: 3
+Name: Psychic Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Bulbasaur
+Pokemon: Bulbasaur has 25 hp
+Attack Skills:
+Name: Tackle Damage: 1
+Name: Vine Whip Damage: 2
+Name: Razor Leaf Damage: 3
+Name: Leaf Storm Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Butterfree
+Pokemon: Butterfree has 40 hp
+Attack Skills:
+Name: Poison Damage: 0
+Damage Over Time: 2
+Damage Turn Count: 3
+Name: Gust Damage: 1
+Name: Whirlwind Damage: 2
+Name: Solar Beam Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Charmander
+Pokemon: Charmander has 25 hp
+Attack Skills:
+Name: Attack Damage: 1
+Name: Scratch Damage: 2
+Name: Ember Damage: 3
+Name: Flamethrower Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Ditto
+Pokemon: Ditto has 35 hp
+Attack Skills:
+Name: Transform Damage: 0
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Geodude
+Pokemon: Geodude has 25 hp
+Attack Skills:
+Name: Tackle Damage: 1
+Name: Rock Throw Damage: 2
+Name: Earth Quake Damage: 3
+Name: Rock Slide Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Jigglypuff
+Pokemon: Jigglypuff has 25 hp
+Attack Skills:
+Name: Sharpie Damage: 0
+Name: Sing Damage: 1
+Name: Pound Damage: 2
+Name: Double Slap Damage: 10
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Lapras
+Pokemon: Lapras has 25 hp
+Attack Skills:
+Name: Mist Damage: 1
+Name: Ice Shard Damage: 2
+Name: Ice Beam Damage: 3
+Name: Sheer Cold Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Mew
+Pokemon: Mew has 25 hp
+Attack Skills:
+Name: Charm Damage: 0
+Name: Pound Damage: 1
+Name: Imprison Damage: 2
+Name: Psychic Damage: 15
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Pikachu
+Pokemon: Pikachu has 25 hp
+Attack Skills:
+Name: Growl Damage: 1
+Name: Tail Whip Damage: 2
+Name: Thunder Shock Damage: 3
+Name: Thunder Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Slowpoke
+Pokemon: Slowpoke has 25 hp
+Attack Skills:
+Name: Tackle Damage: 1
+Name: Curse Damage: 2
+Name: Confusion Damage: 3
+Name: Psychic Damage: 6
+Defense Skills:
+Name: Heal Pulse Defense: 0
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Snorlax
+Pokemon: Snorlax has 40 hp
+Attack Skills:
+Name: Rest Damage: 0
+Name: Snore Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> displayinfo,Squirtle
+Pokemon: Squirtle has 25 hp
+Attack Skills:
+Name: Attack Damage: 1
+Name: Tackle Damage: 2
+Name: Water Gun Damage: 3
+Name: Hydro Pump Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> //stop
+> stop
+stop acknowledged
+simulation terminated

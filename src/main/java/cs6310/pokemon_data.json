@@ -1,0 +1,457 @@
+{
+    "pokemon": [
+        {
+            "id": 1,
+            "name": "Pikachu",
+            "type": "Electric",
+            "hitPoints": 35,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Thunderbolt", "Quick Attack", "Iron Tail"],
+            "defenseList": ["Protect", "Endure"]
+        },
+        {
+            "id": 2,
+            "name": "Charizard",
+            "type": "Fire",
+            "hitPoints": 78,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Flamethrower", "Fly", "Dragon Claw"],
+            "defenseList": ["Smokescreen", "Protect"]
+        },
+        {
+            "id": 3,
+            "name": "Bulbasaur",
+            "type": "Grass",
+            "hitPoints": 45,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Vine Whip", "Razor Leaf", "Solar Beam"],
+            "defenseList": ["Leech Seed", "Protect"]
+        },
+        {
+            "id": 4,
+            "name": "Squirtle",
+            "type": "Water",
+            "hitPoints": 44,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Water Gun", "Bubble", "Aqua Tail"],
+            "defenseList": ["Withdraw", "Protect"]
+        },
+        {
+            "id": 5,
+            "name": "Eevee",
+            "type": "Normal",
+            "hitPoints": 55,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Quick Attack", "Bite", "Double-Edge"],
+            "defenseList": ["Baby-Doll Eyes", "Protect"]
+        },
+        {
+            "id": 6,
+            "name": "Gengar",
+            "type": "Ghost",
+            "hitPoints": 60,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Shadow Ball", "Hypnosis", "Dream Eater"],
+            "defenseList": ["Curse", "Protect"]
+        },
+        {
+            "id": 7,
+            "name": "Dragonite",
+            "type": "Dragon",
+            "hitPoints": 91,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Dragon Claw", "Hyper Beam", "Hurricane"],
+            "defenseList": ["Protect", "Safeguard"]
+        },
+        {
+            "id": 8,
+            "name": "Lucario",
+            "type": "Fighting",
+            "hitPoints": 70,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Aura Sphere", "Close Combat", "Meteor Mash"],
+            "defenseList": ["Protect", "Counter"]
+        },
+        {
+            "id": 9,
+            "name": "Snorlax",
+            "type": "Normal",
+            "hitPoints": 160,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Body Slam", "Crunch", "Giga Impact"],
+            "defenseList": ["Rest", "Protect"]
+        },
+        {
+            "id": 10,
+            "name": "Jigglypuff",
+            "type": "Fairy",
+            "hitPoints": 115,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Sing", "Hyper Voice", "Dazzling Gleam"],
+            "defenseList": ["Charm", "Protect"]
+        },
+        {
+            "id": 11,
+            "name": "Machamp",
+            "type": "Fighting",
+            "hitPoints": 90,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Dynamic Punch", "Cross Chop", "Bullet Punch"],
+            "defenseList": ["Bulk Up", "Protect"]
+        },
+        {
+            "id": 12,
+            "name": "Alakazam",
+            "type": "Psychic",
+            "hitPoints": 55,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Psybeam", "Future Sight", "Teleport"],
+            "defenseList": ["Reflect", "Protect"]
+        },
+        {
+            "id": 13,
+            "name": "Lapras",
+            "type": "Water",
+            "hitPoints": 130,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Ice Beam", "Surf", "Hydro Pump"],
+            "defenseList": ["Mist", "Protect"]
+        },
+        {
+            "id": 14,
+            "name": "Arcanine",
+            "type": "Fire",
+            "hitPoints": 90,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Flare Blitz", "Crunch", "Extreme Speed"],
+            "defenseList": ["Roar", "Protect"]
+        },
+        {
+            "id": 15,
+            "name": "Gyarados",
+            "type": "Water",
+            "hitPoints": 95,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Aqua Tail", "Dragon Dance", "Crunch"],
+            "defenseList": ["Intimidate", "Protect"]
+        },
+        {
+            "id": 16,
+            "name": "Vaporeon",
+            "type": "Water",
+            "hitPoints": 130,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Water Gun", "Hydro Pump", "Acid Armor"],
+            "defenseList": ["Substitute", "Protect"]
+        },
+        {
+            "id": 17,
+            "name": "Flareon",
+            "type": "Fire",
+            "hitPoints": 65,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Fire Fang", "Flamethrower", "Overheat"],
+            "defenseList": ["Smokescreen", "Protect"]
+        },
+        {
+            "id": 18,
+            "name": "Jolteon",
+            "type": "Electric",
+            "hitPoints": 65,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Thunder Shock", "Thunder", "Volt Switch"],
+            "defenseList": ["Agility", "Protect"]
+        },
+        {
+            "id": 19,
+            "name": "Umbreon",
+            "type": "Dark",
+            "hitPoints": 95,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Dark Pulse", "Snarl", "Pursuit"],
+            "defenseList": ["Moonlight", "Protect"]
+        },
+        {
+            "id": 20,
+            "name": "Espeon",
+            "type": "Psychic",
+            "hitPoints": 65,
+            "level": 1,
+            "battleWins": 0,
+            "tournamentWins": 0,
+            "attackList": ["Confusion", "Psychic", "Psyshock"],
+            "defenseList": ["Light Screen", "Protect"]
+        }
+    ],
+
+    "moves": [
+        {
+            "name": "Thunderbolt",
+            "type": "Electric",
+            "powerLevel": 3
+        },
+        {
+            "name": "Quick Attack",
+            "type": "Normal",
+            "powerLevel": 5
+        },
+        {
+            "name": "Iron Tail",
+            "type": "Steel",
+            "powerLevel": 2
+        },
+        {
+            "name": "Protect",
+            "type": "Normal",
+            "powerLevel": 2
+        },
+        {
+            "name": "Endure",
+            "type": "Normal",
+            "powerLevel": 4
+        },
+        {
+            "name": "Flamethrower",
+            "type": "Fire",
+            "powerLevel": 3
+        },
+        {
+            "name": "Fly",
+            "type": "Flying",
+            "powerLevel": 7
+        },
+        {
+            "name": "Dragon Claw",
+            "type": "Dragon",
+            "powerLevel": 4
+        },
+        {
+            "name": "Smokescreen",
+            "type": "Normal",
+            "powerLevel": 8
+        },
+        {
+            "name": "Vine Whip",
+            "type": "Grass",
+            "powerLevel": 2
+        },
+        {
+            "name": "Razor Leaf",
+            "type": "Grass",
+            "powerLevel": 3
+        },
+        {
+            "name": "Solar Beam",
+            "type": "Grass",
+            "powerLevel": 4
+        },
+        {
+            "name": "Leech Seed",
+            "type": "Grass",
+            "powerLevel": 1
+        },
+        {
+            "name": "Water Gun",
+            "type": "Water",
+            "powerLevel": 5
+        },
+        {
+            "name": "Bubble",
+            "type": "Water",
+            "powerLevel": 2
+        },
+        {
+            "name": "Aqua Tail",
+            "type": "Water",
+            "powerLevel": 4
+        },
+        {
+            "name": "Body Slam",
+            "type": "Normal",
+            "powerLevel": 2
+        },
+        {
+            "name": "Crunch",
+            "type": "Dark",
+            "powerLevel": 1
+        },
+        {
+            "name": "Giga Impact",
+            "type": "Normal",
+            "powerLevel": 3
+        },
+        {
+            "name": "Sing",
+            "type": "Normal",
+            "powerLevel": 4
+        },
+        {
+            "name": "Hyper Voice",
+            "type": "Normal",
+            "powerLevel": 2
+        },
+        {
+            "name": "Dazzling Gleam",
+            "type": "Fairy",
+            "powerLevel": 2
+        },
+        {
+            "name": "Charm",
+            "type": "Fairy",
+            "powerLevel": 2
+        },
+        {
+            "name": "Dynamic Punch",
+            "type": "Fighting",
+            "powerLevel": 5
+        },
+        {
+            "name": "Cross Chop",
+            "type": "Fighting",
+            "powerLevel": 4
+        },
+        {
+            "name": "Bullet Punch",
+            "type": "Steel",
+            "powerLevel": 3
+        },
+        {
+            "name": "Bulk Up",
+            "type": "Fighting",
+            "powerLevel": 2
+        },
+        {
+            "name": "Psybeam",
+            "type": "Psychic",
+            "powerLevel": 4
+        },
+        {
+            "name": "Future Sight",
+            "type": "Psychic",
+            "powerLevel": 3
+        },
+        {
+            "name": "Teleport",
+            "type": "Psychic",
+            "powerLevel": 2
+        },
+        {
+            "name": "Reflect",
+            "type": "Psychic",
+            "powerLevel": 7
+        },
+        {
+            "name": "Ice Beam",
+            "type": "Ice",
+            "powerLevel": 2
+        },
+        {
+            "name": "Surf",
+            "type": "Water",
+            "powerLevel": 1
+        },
+        {
+            "name": "Hydro Pump",
+            "type": "Water",
+            "powerLevel": 2
+        },
+        {
+            "name": "Mist",
+            "type": "Ice",
+            "powerLevel": 4
+        },
+        {
+            "name": "Flare Blitz",
+            "type": "Fire",
+            "powerLevel": 3
+        },
+        {
+            "name": "Extreme Speed",
+            "type": "Normal",
+            "powerLevel": 3
+        },
+        {
+            "name": "Roar",
+            "type": "Normal",
+            "powerLevel": 2
+        },
+        {
+            "name": "Dark Pulse",
+            "type": "Dark",
+            "powerLevel": 4
+        },
+        {
+            "name": "Snarl",
+            "type": "Dark",
+            "powerLevel": 2
+        },
+        {
+            "name": "Pursuit",
+            "type": "Dark",
+            "powerLevel": 4
+        },
+        {
+            "name": "Moonlight",
+            "type": "Fairy",
+            "powerLevel": 2
+        },
+        {
+            "name": "Confusion",
+            "type": "Psychic",
+            "powerLevel": 2
+        },
+        {
+            "name": "Psychic",
+            "type": "Psychic",
+            "powerLevel": 3
+        },
+        {
+            "name": "Psyshock",
+            "type": "Psychic",
+            "powerLevel": 2
+        },
+        {
+            "name": "Light Screen",
+            "type": "Psychic",
+            "powerLevel": 4
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+// set the seed to 870
+setseed,870
+// display info Abra
+displayinfo,Abra
+// battle between 2 Pokemon
+battle,Charmander,Abra
+//tournament
+tournament,Abra,Charmander,Charmander,Abra
+//stop
+stop

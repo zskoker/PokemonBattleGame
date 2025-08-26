@@ -1,0 +1,12 @@
+// set the seed to 0
+setseed,0
+// display info Lapras
+displayinfo,Lapras
+// battle between 3 Pokemon
+battle,Bulbasaur,Lapra,sDitto
+// battle between 2 Pokemon
+battle,Bulbasaur,Lapras
+//tournament
+tournament,Abra,Lapras,Butterfree,Jigglypuff
+//stop
+stop

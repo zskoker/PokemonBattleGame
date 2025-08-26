@@ -1,0 +1,281 @@
+Welcome to the thunder dome!
+> // set the seed to 0
+> setseed,0
+> // display info Lapras
+> displayinfo,Lapras
+Pokemon: Lapras has 25 hp
+Attack Skills:
+Name: Mist Damage: 1
+Name: Ice Shard Damage: 2
+Name: Ice Beam Damage: 3
+Name: Sheer Cold Damage: 6
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> // battle between 3 Pokemon
+> battle,Bulbasaur,Lapra,sDitto
+Participant size invalid.
+> // battle between 2 Pokemon
+> battle,Bulbasaur,Lapras
+Bulbasaur is attempting to defend with Block
+Lapras is attacking with Mist for 1 damage to Bulbasaur
+Bulbasaur successfully reduced Lapras's damage by 2 with Block
+Bulbasaur has received 0 dmg, remaining hp is 25
+Bulbasaur is attacking with Razor Leaf for 3 damage to Lapras
+Lapras has received 3 dmg, remaining hp is 22
+Lapras is attacking with Ice Shard for 2 damage to Bulbasaur
+Bulbasaur has received 2 dmg, remaining hp is 23
+Bulbasaur is attacking with Vine Whip for 2 damage to Lapras
+Lapras has received 2 dmg, remaining hp is 20
+Lapras is attacking with Mist for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 22
+Bulbasaur is attempting to defend with Endure
+Lapras is attacking with Ice Beam for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Lapras's damage by 1 with Endure
+Bulbasaur has received 2 dmg, remaining hp is 20
+Bulbasaur is attacking with Leaf Storm for 6 damage to Lapras
+Lapras has received 6 dmg, remaining hp is 14
+Lapras is attacking with Ice Beam for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 17
+Bulbasaur is attacking with Vine Whip for 2 damage to Lapras
+Lapras has received 2 dmg, remaining hp is 12
+Lapras is attacking with Mist for 1 damage to Bulbasaur
+Bulbasaur has received 1 dmg, remaining hp is 16
+Bulbasaur is attempting to defend with Block
+Lapras is attacking with Mist for 1 damage to Bulbasaur
+Bulbasaur successfully reduced Lapras's damage by 2 with Block
+Bulbasaur has received 0 dmg, remaining hp is 16
+Bulbasaur is attacking with Leaf Storm for 6 damage to Lapras
+Lapras has received 6 dmg, remaining hp is 6
+Lapras is attempting to defend with Block
+Bulbasaur is attempting to defend with Endure
+Lapras is attempting to defend with Endure
+Bulbasaur is attempting to defend with Protect
+Lapras is attempting to defend with Protect
+Bulbasaur is attempting to defend with Endure
+Lapras is attempting to defend with Protect
+Bulbasaur is attempting to defend with Protect
+Lapras is attempting to defend with Protect
+Bulbasaur is attempting to defend with Block
+Lapras is attempting to defend with Protect
+Bulbasaur is attempting to defend with Block
+Lapras is attacking with Sheer Cold for 6 damage to Bulbasaur
+Bulbasaur successfully reduced Lapras's damage by 2 with Block
+Bulbasaur has received 4 dmg, remaining hp is 12
+Bulbasaur is attempting to defend with Protect
+Lapras is attacking with Ice Beam for 3 damage to Bulbasaur
+Bulbasaur successfully reduced Lapras's damage by 3 with Protect
+Bulbasaur has received 0 dmg, remaining hp is 12
+Bulbasaur is attacking with Razor Leaf for 3 damage to Lapras
+Lapras has received 3 dmg, remaining hp is 3
+Lapras is attempting to defend with Block
+Bulbasaur is attacking with Vine Whip for 2 damage to Lapras
+Lapras successfully reduced Bulbasaur's damage by 2 with Block
+Lapras has received 0 dmg, remaining hp is 3
+Lapras is attempting to defend with Block
+Bulbasaur is attempting to defend with Protect
+Lapras is attempting to defend with Endure
+Bulbasaur is attacking with Tackle for 1 damage to Lapras
+Lapras successfully reduced Bulbasaur's damage by 1 with Endure
+Lapras has received 0 dmg, remaining hp is 3
+Lapras is attacking with Ice Beam for 3 damage to Bulbasaur
+Bulbasaur has received 3 dmg, remaining hp is 9
+Bulbasaur is attacking with Leaf Storm for 6 damage to Lapras
+Lapras has received 6 dmg, remaining hp is 0
+Lapras has lost
+Bulbasaur has won the battle
+> //tournament
+> tournament,Abra,Lapras,Butterfree,Jigglypuff
+Starting tournament round 1 with Abra and Lapras
+Abra is attempting to defend with Block
+Lapras is attacking with Mist for 1 damage to Abra
+Abra successfully reduced Lapras's damage by 2 with Block
+Abra has received 0 dmg, remaining hp is 25
+Abra is attacking with Seismic Toss for 3 damage to Lapras
+Lapras has received 3 dmg, remaining hp is 22
+Lapras is attacking with Ice Shard for 2 damage to Abra
+Abra has received 2 dmg, remaining hp is 23
+Abra is attacking with Mega Kick for 2 damage to Lapras
+Lapras has received 2 dmg, remaining hp is 20
+Lapras is attacking with Mist for 1 damage to Abra
+Abra has received 1 dmg, remaining hp is 22
+Abra is attempting to defend with Endure
+Lapras is attacking with Ice Beam for 3 damage to Abra
+Abra successfully reduced Lapras's damage by 1 with Endure
+Abra has received 2 dmg, remaining hp is 20
+Abra is attacking with Psychic for 6 damage to Lapras
+Lapras has received 6 dmg, remaining hp is 14
+Lapras is attacking with Ice Beam for 3 damage to Abra
+Abra has received 3 dmg, remaining hp is 17
+Abra is attacking with Mega Kick for 2 damage to Lapras
+Lapras has received 2 dmg, remaining hp is 12
+Lapras is attacking with Mist for 1 damage to Abra
+Abra has received 1 dmg, remaining hp is 16
+Abra is attempting to defend with Block
+Lapras is attacking with Mist for 1 damage to Abra
+Abra successfully reduced Lapras's damage by 2 with Block
+Abra has received 0 dmg, remaining hp is 16
+Abra is attacking with Psychic for 6 damage to Lapras
+Lapras has received 6 dmg, remaining hp is 6
+Lapras is attempting to defend with Block
+Abra is attempting to defend with Endure
+Lapras is attempting to defend with Endure
+Abra is attempting to defend with Protect
+Lapras is attempting to defend with Protect
+Abra is attempting to defend with Endure
+Lapras is attempting to defend with Protect
+Abra is attempting to defend with Protect
+Lapras is attempting to defend with Protect
+Abra is attempting to defend with Block
+Lapras is attempting to defend with Protect
+Abra is attempting to defend with Block
+Lapras is attacking with Sheer Cold for 6 damage to Abra
+Abra successfully reduced Lapras's damage by 2 with Block
+Abra has received 4 dmg, remaining hp is 12
+Abra is attempting to defend with Protect
+Lapras is attacking with Ice Beam for 3 damage to Abra
+Abra successfully reduced Lapras's damage by 3 with Protect
+Abra has received 0 dmg, remaining hp is 12
+Abra is attacking with Seismic Toss for 3 damage to Lapras
+Lapras has received 3 dmg, remaining hp is 3
+Lapras is attempting to defend with Block
+Abra is attacking with Mega Kick for 2 damage to Lapras
+Lapras successfully reduced Abra's damage by 2 with Block
+Lapras has received 0 dmg, remaining hp is 3
+Lapras is attempting to defend with Block
+Abra is attempting to defend with Protect
+Lapras is attempting to defend with Endure
+Abra is attacking with Mega Punch for 1 damage to Lapras
+Lapras successfully reduced Abra's damage by 1 with Endure
+Lapras has received 0 dmg, remaining hp is 3
+Lapras is attacking with Ice Beam for 3 damage to Abra
+Abra has received 3 dmg, remaining hp is 9
+Abra is attacking with Psychic for 6 damage to Lapras
+Lapras has received 6 dmg, remaining hp is 0
+Lapras has lost
+Abra has won the battle
+Abra has won round 1
+Starting tournament round 2 with Butterfree and Jigglypuff
+Butterfree is attempting to defend with Block
+Jigglypuff is attacking with Sharpie for 0 damage to Butterfree
+Butterfree is attacking with Whirlwind for 2 damage to Jigglypuff
+Jigglypuff has received 2 dmg, remaining hp is 23
+Jigglypuff is attacking with Sing for 1 damage to Butterfree
+Butterfree has received 1 dmg, remaining hp is 39
+Butterfree is attacking with Gust for 1 damage to Jigglypuff
+Jigglypuff has received 1 dmg, remaining hp is 22
+Jigglypuff is attacking with Sharpie for 0 damage to Butterfree
+Butterfree is attempting to defend with Endure
+Jigglypuff is attacking with Pound for 2 damage to Butterfree
+Butterfree successfully reduced Jigglypuff's damage by 1 with Endure
+Butterfree has received 1 dmg, remaining hp is 38
+Butterfree is attacking with Solar Beam for 6 damage to Jigglypuff
+Jigglypuff has received 6 dmg, remaining hp is 16
+Jigglypuff is attacking with Pound for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 36
+Butterfree is attacking with Gust for 1 damage to Jigglypuff
+Jigglypuff has received 1 dmg, remaining hp is 15
+Jigglypuff is attacking with Sharpie for 0 damage to Butterfree
+Butterfree is attacking with Whirlwind for 2 damage to Jigglypuff
+Jigglypuff has received 2 dmg, remaining hp is 13
+Jigglypuff is attacking with Sharpie for 0 damage to Butterfree
+Butterfree is attacking with Solar Beam for 6 damage to Jigglypuff
+Jigglypuff has received 6 dmg, remaining hp is 7
+Jigglypuff is attempting to defend with Block
+Butterfree is attacking with Poison and Damage Over Time for 2 damage to Jigglypuff
+Jigglypuff successfully reduced Butterfree's damage by 2 with Block
+Jigglypuff has received 0 dmg, remaining hp is 7
+Jigglypuff is attempting to defend with Endure
+Butterfree is attempting to defend with Protect and Damage Over Time for 2 damage to Jigglypuff
+Jigglypuff successfully reduced Butterfree's damage by 1 with Endure
+Jigglypuff has received 1 dmg, remaining hp is 6
+Jigglypuff is attempting to defend with Protect
+Butterfree is attacking with Gust and Damage Over Time for 3 damage to Jigglypuff
+Jigglypuff successfully reduced Butterfree's damage by 3 with Protect
+Jigglypuff has received 0 dmg, remaining hp is 6
+Jigglypuff is attempting to defend with Protect
+Butterfree is attacking with Gust for 1 damage to Jigglypuff
+Jigglypuff successfully reduced Butterfree's damage by 3 with Protect
+Jigglypuff has received 0 dmg, remaining hp is 6
+Jigglypuff is attempting to defend with Protect
+Butterfree is attacking with Whirlwind for 2 damage to Jigglypuff
+Jigglypuff successfully reduced Butterfree's damage by 3 with Protect
+Jigglypuff has received 0 dmg, remaining hp is 6
+Jigglypuff is attempting to defend with Protect
+Butterfree is attacking with Poison and Damage Over Time for 2 damage to Jigglypuff
+Jigglypuff successfully reduced Butterfree's damage by 3 with Protect
+Jigglypuff has received 0 dmg, remaining hp is 6
+Jigglypuff is attacking with Double Slap for 10 damage to Butterfree
+Butterfree has received 10 dmg, remaining hp is 26
+Butterfree is attempting to defend with Protect and Damage Over Time for 2 damage to Jigglypuff
+Jigglypuff has received 2 dmg, remaining hp is 4
+Jigglypuff is attacking with Pound for 2 damage to Butterfree
+Butterfree successfully reduced Jigglypuff's damage by 3 with Protect
+Butterfree has received 0 dmg, remaining hp is 26
+Butterfree is attacking with Whirlwind and Damage Over Time for 4 damage to Jigglypuff
+Jigglypuff has received 4 dmg, remaining hp is 0
+Jigglypuff has lost
+Butterfree has won the battle
+Butterfree has won round 2
+Starting tournament round 3 with Abra and Butterfree
+Abra is attempting to defend with Block
+Butterfree is attacking with Poison and Damage Over Time for 2 damage to Abra
+Abra successfully reduced Butterfree's damage by 2 with Block
+Abra has received 0 dmg, remaining hp is 25
+Abra is attacking with Seismic Toss for 3 damage to Butterfree
+Butterfree has received 3 dmg, remaining hp is 37
+Butterfree is attacking with Gust and Damage Over Time for 3 damage to Abra
+Abra has received 3 dmg, remaining hp is 22
+Abra is attacking with Mega Kick for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 35
+Butterfree is attacking with Poison and Damage Over Time for 2 damage to Abra
+Abra has received 2 dmg, remaining hp is 20
+Abra is attempting to defend with Endure
+Butterfree is attacking with Whirlwind and Damage Over Time for 4 damage to Abra
+Abra successfully reduced Butterfree's damage by 1 with Endure
+Abra has received 3 dmg, remaining hp is 17
+Abra is attacking with Psychic for 6 damage to Butterfree
+Butterfree has received 6 dmg, remaining hp is 29
+Butterfree is attacking with Whirlwind and Damage Over Time for 4 damage to Abra
+Abra has received 4 dmg, remaining hp is 13
+Abra is attacking with Mega Kick for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 27
+Butterfree is attacking with Poison and Damage Over Time for 2 damage to Abra
+Abra has received 2 dmg, remaining hp is 11
+Abra is attempting to defend with Block
+Butterfree is attacking with Poison and Damage Over Time for 2 damage to Abra
+Abra successfully reduced Butterfree's damage by 2 with Block
+Abra has received 0 dmg, remaining hp is 11
+Abra is attacking with Psychic for 6 damage to Butterfree
+Butterfree has received 6 dmg, remaining hp is 21
+Butterfree is attempting to defend with Block and Damage Over Time for 2 damage to Abra
+Abra has received 2 dmg, remaining hp is 9
+Abra is attempting to defend with Endure
+Butterfree is attempting to defend with Endure and Damage Over Time for 2 damage to Abra
+Abra successfully reduced Butterfree's damage by 1 with Endure
+Abra has received 1 dmg, remaining hp is 8
+Abra is attempting to defend with Protect
+Butterfree is attacking with Gust for 1 damage to Abra
+Abra successfully reduced Butterfree's damage by 3 with Protect
+Abra has received 0 dmg, remaining hp is 8
+Abra is attempting to defend with Endure
+Butterfree is attacking with Solar Beam for 6 damage to Abra
+Abra successfully reduced Butterfree's damage by 1 with Endure
+Abra has received 5 dmg, remaining hp is 3
+Abra is attempting to defend with Protect
+Butterfree is attempting to defend with Protect
+Abra is attempting to defend with Block
+Butterfree is attempting to defend with Protect
+Abra is attempting to defend with Block
+Butterfree is attacking with Solar Beam for 6 damage to Abra
+Abra successfully reduced Butterfree's damage by 2 with Block
+Abra has received 4 dmg, remaining hp is 0
+Abra has lost
+Butterfree has won the battle
+Butterfree has won round 3
+Butterfree has won the tournament
+> //stop
+> stop
+stop acknowledged
+simulation terminated

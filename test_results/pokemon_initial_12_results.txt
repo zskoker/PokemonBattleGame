@@ -1,0 +1,249 @@
+Welcome to the thunder dome!
+> // set the seed to 61
+> setseed,61
+> // display info Jigglypuff
+> displayinfo,Jigglypuff
+Pokemon: Jigglypuff has 25 hp
+Attack Skills:
+Name: Sharpie Damage: 0
+Name: Sing Damage: 1
+Name: Pound Damage: 2
+Name: Double Slap Damage: 10
+Defense Skills:
+Name: Endure Defense: 1
+Name: Block Defense: 2
+Name: Protect Defense: 3
+> // battle between 2 Pokemon
+> battle,Geodude,Jigglypuff
+Geodude is attempting to defend with Endure
+Jigglypuff is attacking with Double Slap for 10 damage to Geodude
+Geodude successfully reduced Jigglypuff's damage by 1 with Endure
+Geodude has received 9 dmg, remaining hp is 16
+Geodude is attacking with Rock Slide for 6 damage to Jigglypuff
+Jigglypuff has received 6 dmg, remaining hp is 19
+Jigglypuff is attempting to defend with Endure
+Geodude is attacking with Rock Throw for 2 damage to Jigglypuff
+Jigglypuff successfully reduced Geodude's damage by 1 with Endure
+Jigglypuff has received 1 dmg, remaining hp is 18
+Jigglypuff is attempting to defend with Endure
+Geodude is attempting to defend with Protect
+Jigglypuff is attacking with Sharpie for 0 damage to Geodude
+Geodude is attacking with Earth Quake for 3 damage to Jigglypuff
+Jigglypuff has received 3 dmg, remaining hp is 15
+Jigglypuff is attempting to defend with Protect
+Geodude is attempting to defend with Endure
+Jigglypuff is attempting to defend with Protect
+Geodude is attempting to defend with Endure
+Jigglypuff is attacking with Double Slap for 10 damage to Geodude
+Geodude successfully reduced Jigglypuff's damage by 1 with Endure
+Geodude has received 9 dmg, remaining hp is 7
+Geodude is attempting to defend with Endure
+Jigglypuff is attacking with Double Slap for 10 damage to Geodude
+Geodude successfully reduced Jigglypuff's damage by 1 with Endure
+Geodude has received 9 dmg, remaining hp is 0
+Geodude has lost
+Jigglypuff has won the battle
+> //tournament
+> tournament,Jigglypuff,Ditto,Butterfree,Squirtle
+Starting tournament round 1 with Jigglypuff and Ditto
+Jigglypuff is attempting to defend with Endure
+Ditto is attacking with Transform for 0 damage to Jigglypuff
+Jigglypuff is attacking with Double Slap for 10 damage to Ditto
+Ditto has received 10 dmg, remaining hp is 25
+Ditto is attempting to defend with Endure
+Jigglypuff is attacking with Sing for 1 damage to Ditto
+Ditto successfully reduced Jigglypuff's damage by 1 with Endure
+Ditto has received 0 dmg, remaining hp is 25
+Ditto is attempting to defend with Endure
+Jigglypuff is attacking with Double Slap for 10 damage to Ditto
+Ditto successfully reduced Jigglypuff's damage by 1 with Endure
+Ditto has received 9 dmg, remaining hp is 16
+Ditto is attempting to defend with Endure
+Jigglypuff is attacking with Pound for 2 damage to Ditto
+Ditto successfully reduced Jigglypuff's damage by 1 with Endure
+Ditto has received 1 dmg, remaining hp is 15
+Ditto is attempting to defend with Protect
+Jigglypuff is attacking with Sing for 1 damage to Ditto
+Ditto successfully reduced Jigglypuff's damage by 3 with Protect
+Ditto has received 0 dmg, remaining hp is 15
+Ditto is attempting to defend with Protect
+Jigglypuff is attacking with Sing for 1 damage to Ditto
+Ditto successfully reduced Jigglypuff's damage by 3 with Protect
+Ditto has received 0 dmg, remaining hp is 15
+Ditto is attacking with Attack for 1 damage to Jigglypuff
+Jigglypuff has received 1 dmg, remaining hp is 24
+Jigglypuff is attacking with Pound for 2 damage to Ditto
+Ditto has received 2 dmg, remaining hp is 13
+Ditto is attacking with Attack for 2 damage to Jigglypuff
+Jigglypuff has received 2 dmg, remaining hp is 22
+Jigglypuff is attacking with Double Slap for 10 damage to Ditto
+Ditto has received 10 dmg, remaining hp is 3
+Ditto is attempting to defend with Block
+Jigglypuff is attacking with Sharpie for 0 damage to Ditto
+Ditto is attempting to defend with Block
+Jigglypuff is attacking with Pound for 2 damage to Ditto
+Ditto successfully reduced Jigglypuff's damage by 2 with Block
+Ditto has received 0 dmg, remaining hp is 3
+Ditto is attacking with Attack for 2 damage to Jigglypuff
+Jigglypuff has received 2 dmg, remaining hp is 20
+Jigglypuff is attacking with Sing for 1 damage to Ditto
+Ditto has received 1 dmg, remaining hp is 2
+Ditto is attacking with Attack for 1 damage to Jigglypuff
+Jigglypuff has received 1 dmg, remaining hp is 19
+Jigglypuff is attacking with Double Slap for 10 damage to Ditto
+Ditto has received 10 dmg, remaining hp is 0
+Ditto has lost
+Jigglypuff has won the battle
+Jigglypuff has won round 1
+Starting tournament round 2 with Butterfree and Squirtle
+Butterfree is attempting to defend with Endure
+Squirtle is attacking with Hydro Pump for 6 damage to Butterfree
+Butterfree successfully reduced Squirtle's damage by 1 with Endure
+Butterfree has received 5 dmg, remaining hp is 35
+Butterfree is attacking with Solar Beam for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 19
+Squirtle is attempting to defend with Endure
+Butterfree is attacking with Gust for 1 damage to Squirtle
+Squirtle successfully reduced Butterfree's damage by 1 with Endure
+Squirtle has received 0 dmg, remaining hp is 19
+Squirtle is attempting to defend with Endure
+Butterfree is attacking with Solar Beam for 6 damage to Squirtle
+Squirtle successfully reduced Butterfree's damage by 1 with Endure
+Squirtle has received 5 dmg, remaining hp is 14
+Squirtle is attempting to defend with Endure
+Butterfree is attacking with Whirlwind for 2 damage to Squirtle
+Squirtle successfully reduced Butterfree's damage by 1 with Endure
+Squirtle has received 1 dmg, remaining hp is 13
+Squirtle is attempting to defend with Protect
+Butterfree is attacking with Gust for 1 damage to Squirtle
+Squirtle successfully reduced Butterfree's damage by 3 with Protect
+Squirtle has received 0 dmg, remaining hp is 13
+Squirtle is attempting to defend with Protect
+Butterfree is attacking with Gust for 1 damage to Squirtle
+Squirtle successfully reduced Butterfree's damage by 3 with Protect
+Squirtle has received 0 dmg, remaining hp is 13
+Squirtle is attacking with Hydro Pump for 6 damage to Butterfree
+Butterfree has received 6 dmg, remaining hp is 29
+Butterfree is attacking with Whirlwind for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 11
+Squirtle is attacking with Hydro Pump for 6 damage to Butterfree
+Butterfree has received 6 dmg, remaining hp is 23
+Butterfree is attacking with Solar Beam for 6 damage to Squirtle
+Squirtle has received 6 dmg, remaining hp is 5
+Squirtle is attempting to defend with Block
+Butterfree is attacking with Poison and Damage Over Time for 2 damage to Squirtle
+Squirtle successfully reduced Butterfree's damage by 2 with Block
+Squirtle has received 0 dmg, remaining hp is 5
+Squirtle is attacking with Tackle for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 21
+Butterfree is attempting to defend with Endure and Damage Over Time for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 3
+Squirtle is attempting to defend with Endure
+Butterfree is attempting to defend with Block and Damage Over Time for 2 damage to Squirtle
+Squirtle successfully reduced Butterfree's damage by 1 with Endure
+Squirtle has received 1 dmg, remaining hp is 2
+Squirtle is attempting to defend with Endure
+Butterfree is attempting to defend with Block
+Squirtle is attempting to defend with Protect
+Butterfree is attempting to defend with Endure
+Squirtle is attempting to defend with Protect
+Butterfree is attacking with Gust for 1 damage to Squirtle
+Squirtle successfully reduced Butterfree's damage by 3 with Protect
+Squirtle has received 0 dmg, remaining hp is 2
+Squirtle is attempting to defend with Protect
+Butterfree is attempting to defend with Protect
+Squirtle is attempting to defend with Block
+Butterfree is attempting to defend with Endure
+Squirtle is attacking with Hydro Pump for 6 damage to Butterfree
+Butterfree successfully reduced Squirtle's damage by 1 with Endure
+Butterfree has received 5 dmg, remaining hp is 16
+Butterfree is attempting to defend with Protect
+Squirtle is attempting to defend with Block
+Butterfree is attempting to defend with Block
+Squirtle is attempting to defend with Protect
+Butterfree is attacking with Poison and Damage Over Time for 2 damage to Squirtle
+Squirtle successfully reduced Butterfree's damage by 3 with Protect
+Squirtle has received 0 dmg, remaining hp is 2
+Squirtle is attacking with Tackle for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 14
+Butterfree is attempting to defend with Protect and Damage Over Time for 2 damage to Squirtle
+Squirtle has received 2 dmg, remaining hp is 0
+Squirtle has lost
+Butterfree has won the battle
+Butterfree has won round 2
+Starting tournament round 3 with Jigglypuff and Butterfree
+Jigglypuff is attempting to defend with Endure
+Butterfree is attacking with Solar Beam for 6 damage to Jigglypuff
+Jigglypuff successfully reduced Butterfree's damage by 1 with Endure
+Jigglypuff has received 5 dmg, remaining hp is 20
+Jigglypuff is attacking with Double Slap for 10 damage to Butterfree
+Butterfree has received 10 dmg, remaining hp is 30
+Butterfree is attempting to defend with Endure
+Jigglypuff is attacking with Sing for 1 damage to Butterfree
+Butterfree successfully reduced Jigglypuff's damage by 1 with Endure
+Butterfree has received 0 dmg, remaining hp is 30
+Butterfree is attempting to defend with Endure
+Jigglypuff is attacking with Double Slap for 10 damage to Butterfree
+Butterfree successfully reduced Jigglypuff's damage by 1 with Endure
+Butterfree has received 9 dmg, remaining hp is 21
+Butterfree is attempting to defend with Endure
+Jigglypuff is attacking with Pound for 2 damage to Butterfree
+Butterfree successfully reduced Jigglypuff's damage by 1 with Endure
+Butterfree has received 1 dmg, remaining hp is 20
+Butterfree is attempting to defend with Protect
+Jigglypuff is attacking with Sing for 1 damage to Butterfree
+Butterfree successfully reduced Jigglypuff's damage by 3 with Protect
+Butterfree has received 0 dmg, remaining hp is 20
+Butterfree is attempting to defend with Protect
+Jigglypuff is attacking with Sing for 1 damage to Butterfree
+Butterfree successfully reduced Jigglypuff's damage by 3 with Protect
+Butterfree has received 0 dmg, remaining hp is 20
+Butterfree is attacking with Solar Beam for 6 damage to Jigglypuff
+Jigglypuff has received 6 dmg, remaining hp is 14
+Jigglypuff is attacking with Pound for 2 damage to Butterfree
+Butterfree has received 2 dmg, remaining hp is 18
+Butterfree is attacking with Solar Beam for 6 damage to Jigglypuff
+Jigglypuff has received 6 dmg, remaining hp is 8
+Jigglypuff is attacking with Double Slap for 10 damage to Butterfree
+Butterfree has received 10 dmg, remaining hp is 8
+Butterfree is attempting to defend with Block
+Jigglypuff is attacking with Sharpie for 0 damage to Butterfree
+Butterfree is attacking with Gust for 1 damage to Jigglypuff
+Jigglypuff has received 1 dmg, remaining hp is 7
+Jigglypuff is attempting to defend with Endure
+Butterfree is attempting to defend with Endure
+Jigglypuff is attempting to defend with Block
+Butterfree is attempting to defend with Endure
+Jigglypuff is attempting to defend with Block
+Butterfree is attempting to defend with Protect
+Jigglypuff is attempting to defend with Endure
+Butterfree is attempting to defend with Protect
+Jigglypuff is attempting to defend with Protect
+Butterfree is attempting to defend with Protect
+Jigglypuff is attempting to defend with Protect
+Butterfree is attempting to defend with Block
+Jigglypuff is attempting to defend with Endure
+Butterfree is attacking with Solar Beam for 6 damage to Jigglypuff
+Jigglypuff successfully reduced Butterfree's damage by 1 with Endure
+Jigglypuff has received 5 dmg, remaining hp is 2
+Jigglypuff is attempting to defend with Protect
+Butterfree is attempting to defend with Block
+Jigglypuff is attempting to defend with Block
+Butterfree is attempting to defend with Protect
+Jigglypuff is attacking with Sharpie for 0 damage to Butterfree
+Butterfree is attacking with Gust for 1 damage to Jigglypuff
+Jigglypuff has received 1 dmg, remaining hp is 1
+Jigglypuff is attempting to defend with Protect
+Butterfree is attacking with Gust for 1 damage to Jigglypuff
+Jigglypuff successfully reduced Butterfree's damage by 3 with Protect
+Jigglypuff has received 0 dmg, remaining hp is 1
+Jigglypuff is attacking with Double Slap for 10 damage to Butterfree
+Butterfree has received 10 dmg, remaining hp is 0
+Butterfree has lost
+Jigglypuff has won the battle
+Jigglypuff has won round 3
+Jigglypuff has won the tournament
+> //stop
+> stop
+stop acknowledged
+simulation terminated

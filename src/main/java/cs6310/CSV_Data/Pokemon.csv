@@ -1,0 +1,15 @@
+name, element, hitPoints, attackList, defenseList, level, battleWins, tournamentWins
+Abra, "['Psychic']", 25, "['Mega Punch','Mega Kick','Seismic Toss','Psychic']", "['Endure','Block','Protect']", 1, 0, 0
+Bulbasaur, "['Grass','Poison']", 25, "['Tackle','Vine Whip','Razor Leaf','Leaf Storm']", "['Endure','Block','Protect']", 1, 0, 0
+Butterfree, "['Bug','Flying']", 40, "['Poison','Gust','Whirlwind','Solar Beam']", "['Endure','Block','Protect']", 1, 0, 0
+Charmander, "['Fire']", 25, "['Attack','Scratch','Ember','Flamethrower']", "['Endure','Block','Protect']", 1, 0, 0
+Ditto, "['Normal']", 35, ['Transform'], "['Endure','Block','Protect']", 1, 0, 0
+Geodude, "['Rock','Ground']", 25, "['Tackle','Rock Throw','Earth Quake','Rock Slide']", "['Endure','Block','Protect']", 1, 0, 0
+Jigglypuff, "['Normal']", 25, "['Sharpie','Sing','Pound','Double Slap']", "['Endure','Block','Protect']", 1, 0, 0
+Lapras, "['Water','Ice']", 25, "['Mist','Ice Shard','Ice Beam','Sheer Cold']", "['Endure','Block','Protect']", 1, 0, 0
+Mew, "['Psychic']", 25, "['Charm','Pound','Imprison','Psychic']", "['Endure','Block','Protect']", 1, 0, 0
+Pikachu, "['Electric']", 25, "['Growl','Tail Whip','Thunder Shock','Thunder']", "['Endure','Block','Protect']", 1, 0, 0
+Slowpoke, "['Water','Psychic']", 25, "['Tackle','Curse','Confusion','Psychic']", "['Heal Pulse','Endure','Block','Protect']", 1, 0, 0
+Snorlax, "['Normal']", 40, "['Rest','Snore']", "['Endure','Block','Protect']", 1, 0, 0
+Squirtle, "['Water']", 25, "['Attack','Tackle','Water Gun','Hydro Pump']", "['Endure','Block','Protect']", 1, 0, 0
+Hippowdon, [Ground], 10.0, [Earthquake], [Protect], 1, 0, 0
